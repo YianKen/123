@@ -2673,3 +2673,14 @@ section {
   width: 150%;
   justify-content: space-between;
 }
+
+.try_two {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.try_three {
+  display: flex;
+  flex-direction: column;
+}
